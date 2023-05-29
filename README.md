@@ -1,4 +1,26 @@
-# Post Installation Configuration
+# osTicket - Post Installation Configuration
+
+This tutorial outlines thw post-install configuration of the open-source help desk ticketing system osTicket. This lab is part 2 to the osTicket prerequisites lab.
+
+<h2>Environments and Technologies Used</h2>
+
+- Microsoft Azure
+- Remote Desktop
+- Internet Information Services (IIS)
+
+<h2>Operating Systems Used</h2>
+
+- Windows 10
+
+Post-install Configuration Objectives
+
+- Configure roles, departments and teams
+- Allow users to create tickets
+- Configure users
+- Configure SLA
+- Configure help topics
+
+<h2>Configuration Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/snw8HQB.png"/>
